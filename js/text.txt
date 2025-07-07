@@ -1,0 +1,37 @@
+<p>
+    ..., as the names says, is supposed to be fun. It treats the process of learning, reading, writing, and speaking the language as a group of games that influence eachother, so the idea is to create a rule-set that assures all of these games are as fun as possible.
+</p>
+<p>
+    <h3>
+        ...'s design is guided by:
+    </h3>
+</p>
+<p>
+    <h4>
+        Creativity
+    </h4>
+        Speakers should be allowed to express all kinds of ideas and freely play around with what their connections might entail.
+</p>
+<p>
+    <h4>
+        Logical Consistency
+    </h4>
+        This is not supposed to be a naturalistic language. Like all games, its rules are meant to be consistent and sensible to avoid unnecessary confusion or frustration.
+</p>
+<p>
+    <h4>
+        Scalability
+    </h4>
+        Being easy to learn, but not so easy to master, allows beginers to already start understanding and creating phrases (the fun rewarding part) as soon as possible, while still allowing more knowdledgeable speakers to play around with more complex concepts.
+</p>
+<p>
+    <h4>
+        Accessibility
+    </h4>
+        Everyone deserves to have fun, so ... aims to be accessible to all kinds of people, including those with impaired hearing and vision.
+</p>
+<p>
+    <h4>
+        and, of course, fun!
+    </h4>
+</p>
